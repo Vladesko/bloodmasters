@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,3 +11,8 @@ namespace CodeImp.Bloodmasters.Client
     {
     }
 }
+=======
+﻿using System.Runtime.CompilerServices;
+
+[assembly: InternalsVisibleTo("Bloodmasters.Tests")]
+>>>>>>> refs/remotes/origin/new_branch
